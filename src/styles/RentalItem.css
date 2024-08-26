@@ -1,0 +1,19 @@
+.rental-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .rental-item__image {
+    width: 100px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .rental-item__details {
+    flex-grow: 1;
+  }
+  
